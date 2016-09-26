@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">LocationApp</string>
+    <string name="Latitud" translatable="false">Latitud</string>
+    <string name="longitud" translatable="false">Longitud</string>
+    <string name="parar_actualizaciones" translatable="false">Detener Actualizacion</string>
+    <string name="iniciar_actualizaciones" translatable="false">Inicia Actualizacion</string>
+
+</resources>
